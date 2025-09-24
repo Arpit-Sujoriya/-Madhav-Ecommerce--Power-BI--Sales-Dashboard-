@@ -10,27 +10,27 @@
 
 3. 🛠️ "Tech Stack"
 
-|    "Technology"           |                  "Purpose"                           |           "Example in This Project"                       |                           |                                                      |
-| -----------------------   | --------------------------------------------------   | -------------------------------------------------------   | "Power BI Desktop"        | Data modeling, DAX calculations,interactive visuals  | Built KPIs like "Total Sales (438 K)", "Total Profit                                                                                           (37 K)", and "Avg. Order Value (121 K)"
+<> Power BI Desktop – Used for data modeling, creating DAX calculations, and designing interactive visuals. In this project it was used to        build KPIs such as Total Sales (438 K), Total Profit (37 K), and Average Order Value (121 K).
 
-| "Power Query (M)"         | Data cleaning and transformation                     | Combined multiple source tables, removed nulls, created       custom columns  
+<> Power Query (M) – Handles data cleaning and transformation. Here it was used to combine multiple source tables, remove null values, and        create custom columns.
 
-| "DAX"quantity share       | Advanced measures & calculated fields                | Calculated month-wise profit percentage and category-wise                           
-| "Excel/CSV Dataset"       | Raw ecommerce transaction data                       | Imported order, product, and customer files for analysis                                        
+<> DAX (Data Analysis Expressions) – Provides advanced measures and calculated fields. In this dashboard it calculated month-wise profit          percentages and category-wise quantity share.
+
+<> Excel/CSV Dataset – Served as the raw ecommerce transaction data. Order, product, and customer files were imported for analysis.                                      
 
 4. 📂 Data Source
 
-# "Primary Dataset:" Madhav Ecommerce transactional sales data.
-#. "Format:" Excel/CSV files containing order details, customer information, product category, and payment mode.
-#. "Granularity:" Daily order-level data aggregated to monthly, state, and category views.
+<> "Primary Dataset:" Madhav Ecommerce transactional sales data.
+<> "Format:" Excel/CSV files containing order details, customer information, product category, and payment mode.
+<> "Granularity:" Daily order-level data aggregated to monthly, state, and category views.
 
 5. ✨ "Features & Highlights"
 
-# "Comprehensive KPIs":
-# "Total Sales:" 438 K
-# "Total Quantity Sold:" 5,615 units
-# "Total Profit:" 37 K
-# "Average Order Value:" 121 K
+<> "Comprehensive KPIs":
+<> "Total Sales:" 438 K
+<> "Total Quantity Sold:" 5,615 units
+<> "Total Profit:" 37 K
+<> "Average Order Value:" 121 K
 
 * "State-wise Analysis": Bar chart shows top-performing states like Maharashtra and Rajasthan.
 * "Monthly Profit Trend": Visualizes profit fluctuations across all 12 months.
@@ -40,9 +40,9 @@
 * "Interactive Filters": Slicers for month and order date allow drill-down for detailed exploration.
 
 6. 🚀 How to Use
-# Download the `.pbix` file from this repository.
-# Open in "Power BI Desktop" (latest version recommended).
-# Refresh data connections if using your own dataset, or explore visuals with the provided sample.
+<> Download the `.pbix` file from this repository.
+<> Open in "Power BI Desktop" (latest version recommended).
+<> Refresh data connections if using your own dataset, or explore visuals with the provided sample.
 
 7. 📸 Preview
 Show what the Dashboard look like
