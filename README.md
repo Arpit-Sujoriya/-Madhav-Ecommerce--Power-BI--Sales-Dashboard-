@@ -41,7 +41,9 @@
 
 6. 🚀 How to Use
 <> Download the `.pbix` file from this repository.
+
 <> Open in "Power BI Desktop" (latest version recommended).
+
 <> Refresh data connections if using your own dataset, or explore visuals with the provided sample.
 
 7. 📸 Preview
