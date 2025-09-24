@@ -27,9 +27,13 @@
 5. ✨ "Features & Highlights"
 
 <> "Comprehensive KPIs":
+
 <> "Total Sales:" 438 K
+
 <> "Total Quantity Sold:" 5,615 units
+
 <> "Total Profit:" 37 K
+
 <> "Average Order Value:" 121 K
 
 * "State-wise Analysis": Bar chart shows top-performing states like Maharashtra and Rajasthan.
