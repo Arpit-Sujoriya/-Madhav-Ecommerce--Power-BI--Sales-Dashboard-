@@ -1,7 +1,7 @@
 # -Madhav-Ecommerce--Sales- Power-BI-Dashboard-
 1. 🏷️ "Project Title"
 
-  "Madhav Ecommerce Sales Dashboard – Power BI"
+      "Madhav Ecommerce Sales Dashboard – Power BI"
 
 2. 📝 "Short Description"
 
@@ -40,6 +40,7 @@
 * "Interactive Filters": Slicers for month and order date allow drill-down for detailed exploration.
 
 6. 🚀 How to Use
+   
 <> Download the `.pbix` file from this repository.
 
 <> Open in "Power BI Desktop" (latest version recommended).
@@ -47,5 +48,7 @@
 <> Refresh data connections if using your own dataset, or explore visuals with the provided sample.
 
 7. 📸 Preview
+   
 Show what the Dashboard look like
+
 Example - Dashboard Preview -  https://github.com/Arpit-Sujoriya/-Madhav-Ecommerce--Power-BI--Sales-Dashboard-/blob/main/Preview%20of%20Dashoard.png
